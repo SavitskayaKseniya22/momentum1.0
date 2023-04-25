@@ -9,7 +9,7 @@ The app has a clock, image slider, weather widgets, audio player, quote of the d
 ### task: 
 https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum.md
 ### deploy: 
-https://rolling-scopes-school.github.io/savitskayakseniya22-JSFE2021Q3/momentum/
+https://savitskayakseniya22.github.io/momentum/momentum/
 ### screenshots: 
 ![изображение](https://user-images.githubusercontent.com/77901301/174843110-cfd53e09-092e-4953-bf34-db5db0cd18b4.png)
 ![изображение](https://user-images.githubusercontent.com/77901301/174843352-8364c8a5-3bf9-4d0f-a37d-c94f1adc22ca.png)
